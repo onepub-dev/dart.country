@@ -3,7 +3,7 @@
 
 import 'package:meta/meta.dart';
 
-part 'country_code.g.dart';
+part 'country_codes.g.dart';
 
 @immutable
 class CountryCode {

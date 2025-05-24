@@ -70,7 +70,7 @@ void main() {
     ..writeln('}');
 
   // 5) Write the generated part file
-  File('lib/src/country_code.g.dart')
+  File('lib/src/country_codes.g.dart')
     ..createSync(recursive: true)
     ..writeAsStringSync(partBuffer.toString());
 

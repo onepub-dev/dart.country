@@ -5,7 +5,6 @@ part of 'country_code.dart';
 /// ISO country constants + values list
 class CountryCodes {
 
-
   /// Andorra   (AD, AND, 20)
   static const ad = CountryCode._(1209470996,"Andorra");
 
